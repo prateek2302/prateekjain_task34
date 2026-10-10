@@ -36,7 +36,7 @@ To run only the frontend, provide `VITE_API_URL` at build time if the API is not
 
 ## Deploy the frontend to GitHub Pages
 
-The repository includes a GitHub Actions workflow that builds and publishes the Vite frontend whenever changes are pushed to `main`. Create the repository as `schema-reference-task34`, then enable **Settings → Pages → Build and deployment → Source: GitHub Actions**. The site will be published at `https://prateek2302.github.io/schema-reference-task34/`.
+The repository includes a GitHub Actions workflow that builds and publishes the Vite frontend whenever changes are pushed to `main`. Enable **Settings → Pages → Build and deployment → Source: GitHub Actions**. The site is published at `https://prateek2302.github.io/prateekjain_task34/`.
 
 GitHub Pages hosts static frontend files only; it does not run the Express API or MongoDB. To enable the forms on the published site:
 
